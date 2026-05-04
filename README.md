@@ -8,7 +8,7 @@ GHP import can be installed with the Python ecocystem using pip. See the project
 
 ## Upload documents
 
-To upload your docs, you can run the script that is at the root of the repo:
+To upload your docs, you can run the script that is in the `./scripts/` folder:
 
 `./scripts/compile_and_publish.sh`
 
